@@ -3,7 +3,7 @@ package com.satish.repeated.annotations;
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
 
-import com.sun.istack.internal.NotNull;
+
 
 public class Test {
     
@@ -14,7 +14,7 @@ public class Test {
 	@anotherannotation(name = "testing")
 	String str;
 	
-	@NotNull String test;
+    String test;
 	
 	public static void main(String[] args) {
 		Test t = new Test();
