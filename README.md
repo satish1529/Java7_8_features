@@ -8,3 +8,4 @@ Worked on POC on below key features of Java7/8.
 6. ForkJoinPool
 7. TryWithResources
 8. Single catch with multiple exceptions
+9. Annotations and repeated annotations.
