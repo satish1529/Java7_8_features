@@ -1,11 +1,11 @@
 # Java7_8_features
-Worked on POC on below key features of Java7/8.
-1. functional Interfaces
-2. Method and constructor references
-3. Lamda expressions
-4. Optional package
-5. Transfer Queue
-6. ForkJoinPool
-7. TryWithResources
-8. Single catch with multiple exceptions
-9. Annotations and repeated annotations.
+Coded below key features of Java7/8.<br>
+1. functional Interfaces<br>
+2. Method and constructor references <br>
+3. Lamda expressions<br>
+4. Optional package<br>
+5. Transfer Queue<br>
+6. ForkJoinPool<br>
+7. TryWithResources<br>
+8. Single catch with multiple exceptions<br>
+9. Annotations and repeated annotations.<br>
